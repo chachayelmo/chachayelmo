@@ -1,7 +1,7 @@
--------------------------------------------------------------
-Hi,
-I’m **Seunghyun Cha** who is working in Ericsson since 2018,</br>
-and interested in telecommunication, programming and so on.<br>
+Hi all,
 
-Note that) History begins on Sep, 7th, 2022.
--------------------------------------------------------------
+This is my playground to upload anything what I want.  
+Started from Sep, 7th, 2022.  
+
+Best Regards,  
+chachaylmo
